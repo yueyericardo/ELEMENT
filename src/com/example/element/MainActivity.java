@@ -3,6 +3,8 @@ package com.example.element;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.yueyericardo.element.R;
+
 import android.support.v7.app.ActionBarActivity;
 import android.content.Intent;
 import android.media.MediaPlayer;

@@ -2,6 +2,8 @@ package com.example.element;
 
 import java.util.List;
 
+import com.yueyericardo.element.R;
+
 import android.content.Context;
 import android.media.MediaPlayer;
 import android.view.LayoutInflater;

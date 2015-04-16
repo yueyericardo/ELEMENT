@@ -1,5 +1,7 @@
 package com.example.element;
 
+import com.yueyericardo.element.R;
+
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Window;
